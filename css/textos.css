@@ -1,0 +1,40 @@
+h1{
+	color: white;
+	background: black;
+	margin: 20px 150px;
+	width:1200px;
+	font: bold 30px Arial, sans-serif;
+}
+h2{
+   color: white;
+   background: black;
+   font: bold 25px Arial, sans-serif;
+}
+ div p{
+ 	font: bold 20px Arial, sans-serif;
+	width:1100px;
+	background: black;
+	margin: 20px 35px;
+	padding: 30px; 
+}
+body img{
+	margin: 20px 200px;
+}
+p{
+	width:180px;
+}
+div form{
+	font: bold 16px Arial, sans-serif;
+    width: 250px;
+	background: black;
+	color: white;
+	margin: -170px 900px;
+	padding: 5px;
+}
+div a{
+	font: bold 16px Arial, sans-serif;
+    background: black;
+    color: white;
+    padding: 3px;
+    margin: 50px;
+}
